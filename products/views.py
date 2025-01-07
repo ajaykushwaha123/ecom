@@ -5,5 +5,5 @@ from django.shortcuts import render
 
 
 
-def get_products(request, slug):
+def get_product(request, slug):
     return render(request, 'product/product.html')
