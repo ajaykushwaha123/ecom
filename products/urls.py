@@ -5,4 +5,5 @@ urlpatterns = [
     path('<slug>/', get_product, name="get_product"),
     
     
+    
 ]
