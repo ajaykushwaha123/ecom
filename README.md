@@ -43,10 +43,6 @@ This repository houses the source code for an e-commerce platform developed usin
 - **Razorpay API:** A robust and secure payment gateway API for processing online transactions efficiently.
 - **[Add other libraries/tools used, e.g., Database (e.g., PostgreSQL, MySQL), ORM (e.g., Django ORM), etc.]**
 
-![Screenshot 2025-01-23 181156](https://github.com/user-attachments/assets/d8835495-2590-43a6-82c7-d1aa0d1a0566)
-![Screenshot 2025-01-23 181419](https://github.com/user-attachments/assets/5d64d4f3-061d-46ea-a96a-098b0bc12f58)
-![Screenshot 2025-01-23 181353](https://github.com/user-attachments/assets/53aa749d-14e4-4582-9869-96e42d8f88e7)
-![Screenshot 2025-01-23 181224](https://github.com/user-attachments/assets/368fa304-c186-42f8-83c5-cac4a2b7150e)
 
 
 
