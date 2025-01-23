@@ -1,8 +1,9 @@
 
 from django.shortcuts import redirect, render
 from products.models import Product,SizeVariant
-from accounts.models import Cart, CartItems
+from accounts.models import Cart,CartItems
 from django.http import HttpResponseRedirect
+
 # Create your views here.
 
 
